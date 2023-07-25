@@ -1,3 +1,7 @@
+Official website of the RTK student council
+
+Site on hosting: http://i9215659.beget.tech/
+
 <p align="center">
     <a href="https://github.com/yiisoft" target="_blank">
         <img src="https://avatars0.githubusercontent.com/u/993323" height="100px">
