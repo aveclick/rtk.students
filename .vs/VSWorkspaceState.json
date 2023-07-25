@@ -1,0 +1,15 @@
+{
+  "ExpandedNodes": [
+    "",
+    "\\controllers",
+    "\\views",
+    "\\views\\event",
+    "\\views\\layouts",
+    "\\views\\lost-property",
+    "\\web",
+    "\\web\\assets",
+    "\\web\\css",
+    "\\web\\js"
+  ],
+  "PreviewInSolutionExplorer": false
+}
